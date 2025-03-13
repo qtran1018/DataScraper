@@ -5,3 +5,5 @@ Data exported as a CSV file.
 General search: https://business.worcesterchamber.org/list/
 
 Search URL used (search term '0', A-Z sort): https://business.worcesterchamber.org/list/searchalpha/0?q=0&o=alpha&an=True&
+
+TODO: Change casing to title
